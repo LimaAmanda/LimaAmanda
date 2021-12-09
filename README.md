@@ -3,6 +3,8 @@
 
 Eu sou a Amanda Lima 😊
 
+Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor Horácio Augusto da Silveira. 
+
 <div>
 
 <div align ="center" >
