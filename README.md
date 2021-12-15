@@ -15,7 +15,7 @@ Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor H
 <img height ="170em" align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=limaAmanda&&layout=compact&hide=shell&theme=dark"/>
 </div>
 
-## Tecnologias que uso no meu dia 💻✔️
+## Tecnologias que uso no meu dia 💻✔
 
 <div style="display: inline_block"></div>
 
@@ -25,6 +25,9 @@ Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor H
 
 </div>
 
+## <br /> <br />
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LimaAmanda)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
