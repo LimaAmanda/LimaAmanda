@@ -1,5 +1,5 @@
  
-### Olá ! 
+   ### Olá mundo. 
 
 - Bem vindo ao meu perfil GitHub  :octocat:.
 
@@ -30,4 +30,3 @@
 
 ![Snake animation](https://github.com/LimaAmanda/LimaAmanda/blob/output/github-contribution-grid-snake.svg)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LimaAmanda)](https://github.com/ashutosh00710/github-readme-activity-graph)
