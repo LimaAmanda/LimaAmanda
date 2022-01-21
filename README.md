@@ -1,11 +1,11 @@
  
 ### Olá ! 
 
-Bem vindo ao meu perfil GitHub  :octocat:
+- Bem vindo ao meu perfil GitHub  :octocat:.
 
-Eu sou a Amanda Lima 😊
+- Eu sou a Amanda Lima 😊.
 
-Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor Horácio Augusto da Silveira. 
+- Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor Horácio Augusto da Silveira. 
 
 <div>
 
@@ -17,7 +17,7 @@ Estudante de desenvolvimento de sistemas no Centro paula souza, ETEC Professor H
 <img height ="170em" align ="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=limaAmanda&&layout=compact&hide=shell&theme=dark"/>
 </div>
 
-## Estou aprendendo.
+## - Estou aprendendo.
   
 <div style="display: inline_block"></div>
 
