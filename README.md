@@ -5,6 +5,8 @@
 
 - Eu sou a Amanda Lima 😊.
 
+- Formada em desenvolvimento de sistemas, pela ETEC Centro Paula Souza Professor Horácio Augusto da Silveira.
+
 ## 🛠
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
