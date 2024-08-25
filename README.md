@@ -7,6 +7,14 @@
 
 - Formada em desenvolvimento de sistemas, pelo Centro Paula Souza ETEC Professor Horácio Augusto da Silveira.
 
+<div align="center">
+  <a href="https://github.com/NathanaKiw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LimaAmanda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimaAmanda&layout=compact&langs_count=7&theme=dracula"/>
+   </div>
+  
+  
+
 ## 🛠
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
